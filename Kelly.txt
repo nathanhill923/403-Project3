@@ -1,0 +1,179 @@
+﻿Proust Questionnaire
+
+
+What is your idea of perfect happiness?
+
+
+My idea of perfect happiness is to always feel loved by the people you are with, to always feel energized and interested and fulfilled by the things you spend your time on, and to never feel sick or tired or stressed.
+
+
+What is your greatest fear?
+
+
+[Omitted - holdout question]
+
+
+What is the trait you most deplore in yourself?
+
+
+In myself I most deplore time-wasting.  Those moments where you know you don’t care about the dumb website list or TikTok or whatever, but you can’t make yourself stop throwing your time in the trash.  I also sometimes deplore my impatience, which can make me be less kind to the people I love than I would like to be - although sometimes it serves me well and helps me get things done!
+
+
+What is the trait you most deplore in others?
+
+
+In others I most deplore intolerance and selfishness.  When someone is not willing to consider that another’s experience is different from their own and equally valid, or when they aren’t willing to inconvenience themselves a little to make another person’s life better and more free.
+
+
+What is your greatest extravagance?
+
+
+My greatest extravagance is my house.  First of all, it’s expensive to live in San Luis Obispo, and I choose to spend a large percentage of my income on that.  Secondly, I have decorated a lot, including painting all the walls different bright colors.  I’ve also outfitted it with lots of unnecessary but fun technology, like TVs and video game consoles and speakers.
+
+
+What is your current state of mind?
+
+
+        [Omitted - holdout question]
+
+
+What do you consider the most overrated virtue?
+
+
+To me, the most overrated virtue is faith.  I don’t mean religious belief specifically - I mean the idea of “faith” as believing something specifically in spite of not seeing evidence, or even seeing evidence to the contrary.  This goes against all my training as a statistician!
+
+
+On what occasion do you lie?
+
+
+I try to lie only when I think it is genuinely the kindest thing to do.  There are times when painful honesty helps a person out more long-term, but there are also times when it’s more important to prop them up and make them feel supported than hit them with a hard truth.  (I also lie when my fiancé asks me how much candy I ate or how much money I spent online… but he knows I’m lying about those!)
+
+
+
+
+What is the quality you most like in a person?
+
+
+What I like most in a person is when they can be extremely silly or extremely serious, and they know the right context for both.  I appreciate people who are comfortable goofing off - but I also appreciate people who can have a deep conversation or be there for others in times of need.  Basically, I like someone who can make me laugh one moment and make me think the next.
+
+
+Which words or phrases do you most overuse?
+
+
+I’m told I overuse the words “also” and “but” and “indeed”.  In class, I think I overuse the phrases “Does that make sense?” and “Are you with me on this?”
+
+
+What or who is the greatest love of your life?
+
+
+The greatest love of my life is my fiancé Albert, of course!  (Although when I first discovered this questionnaire in high school, I was 100% convinced my answer would always and forever be that one cute boy on the soccer team.)
+
+
+When and where were you happiest?
+
+
+One moment I often remember as my happiest was during my sophomore year of college, when I had first become close with the people who are still my best friends.  We had a little sleepover in one of the dorm rooms, built a pillow fort, and took all kinds of silly pictures on a roommate’s camera.
+
+
+Which talent would you most like to have?
+
+
+The talent I would most like to have is absolutely musical skills!  Ideally singing, but playing an instrument would be fun too.  Alas, while my brother has perfect pitch and can play a song after hearing it once, I have a terrible singing voice and no knack for tunes.
+
+
+If you could change one thing about yourself, what would it be?
+
+
+If I could change one thing about myself, I would like to have a little more self-discipline for things like getting up early in the morning, exercising, eating healthy, and so forth.  I definitely have a tendency to “do what I want” as far as creature comforts.
+
+
+What do you consider your greatest achievement?
+
+
+My greatest achievement professionally is my R package, flair.  I had to study all summer break and dig deep into the underbelly of R programming to make the functions in that package work.  My greatest achievement personally is the awesome network of true friends I have acquired over the years.
+
+
+If you were to die and come back as a person or a thing, what would it be?
+
+
+To be honest, I would like to come back to a similar life but as a man.  Being someone who is into things that society regards as masculine, like math and sports and games, I’m very curious how different my life would have been. 
+
+
+Where would you most like to live?
+
+
+I would most like to live somewhere that is almost exactly like San Luis Obispo, but two or three times the population and more ethnically and culturally diverse.  I love living here, I just often wish we had a big more of a “medium city” feel, and that we could experience more different cultures.
+
+
+What is your most treasured possession?
+
+
+My most treasured possession - apart from my engagement ring, but that’s insured - is a necklace my grandmother gave me.  It contains a few flecks of gold that she panned for in Alaska.  Honestly, I think it was a tourist gimmick purchase, but for some reason I loved it so she gifted it to me.
+
+
+What do you regard as the lowest depth of misery?
+
+
+The lowest depth of misery, in my privileged life, is the feeling that I have let someone I care about down or failed at something that mattered to me.
+
+
+What is your favorite occupation?
+
+
+        My favorite occupation is Professor at Cal Poly, of course!
+
+
+What is your most marked characteristic?
+
+
+I think my most marked characteristic is probably my extraversion.  I like to be around people essentially 100% of the time.  I have a reputation for always being busy schedule, because I like to plan ahead and fill all my days with social events.
+
+
+What do you most value in your friends?
+
+
+I value most that my friends are all extremely unique individuals who are constantly surprising me.  I love when they do or say something unexpected that makes me laugh, or come up with an insight that I hadn’t thought of.
+
+
+Who is your hero of fiction?
+
+
+My hero of fiction is Princess/General Leia Organa. I admire her quick thinking, her sarcasm, and her commitment to her ideals.  I like that she is a female character, who is strong in personality and leadership rather than in physical abilities.
+
+
+Which historical or fictional figure do you most identify with?
+
+
+I am going to cheat and pick a fictional person, because I can’t think of a historical one.  I identify strongly with Josh Lyman from the West Wing.  He is pretty smart and good at his job, but he also can be very, very foolish and ridiculous sometimes.  This is me - I am quite good at a lot of hard academic things, but I can be kind of an airhead in real life!
+
+
+Who are your heroes in real life?
+
+
+My personal heroes are my parents, my brother, my friends, and my fiancé.  Not an exciting answer, I know, but it’s true.
+
+
+
+
+What is it that you most dislike?
+
+
+        [Omitted - holdout question]
+
+
+What is your greatest regret?
+
+
+My greatest regret is not taking more chances and embarrassing myself more when I was young.  I didn’t really try scary things much - I never dated in high school, I never took trips by myself, I never joined clubs I wasn’t good at.  I wish I had gotten more of those experiences out of the way early, even if it meant temporarily dying of embarrassment, instead of leaving them until I was much older and even more embarrassed!
+
+
+How would you like to die?
+
+
+I would like to die of something very sudden and painless when I am already very old.  However, I would like this to happen right before I would have been killed by a natural disaster, like a tsunami or a tornado or a volcano eruption.  I think it would be interesting to see those up close, but I don’t want the painful death they bring!
+
+
+What is your motto?
+
+
+        [Omitted - holdout question]
